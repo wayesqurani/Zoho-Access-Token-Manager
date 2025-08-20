@@ -1,12 +1,12 @@
 
-# Zoho Access Token Manager
+## Zoho Access Token Manager
 
 This project provides a simple way to generate and manage **Zoho OAuth access tokens** using a refresh token.  
 It ensures that the access token is always valid by caching it in a JSON file and refreshing it before expiration.
 
 ---
 
-## Features
+### Features
 - Generate a new Zoho **Access Token** from a given **Refresh Token**
 - Store token details in `access-token.json`
 - Automatically reuse valid tokens
@@ -15,7 +15,7 @@ It ensures that the access token is always valid by caching it in a JSON file an
 
 ---
 
-## File Structure
+### File Structure
 ```
 
 zoho-access-token-manager/
@@ -29,7 +29,7 @@ zoho-access-token-manager/
 
 ---
 
-## Configuration
+### Configuration
 
 Before using the project, you **must update your Zoho credentials** in `access-token.php`:
 
