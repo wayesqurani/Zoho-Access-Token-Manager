@@ -1,0 +1,8 @@
+{
+    "access_token": "1000.7ebc8a08093a7896367852212136657b.de7cddda2d10bca734760f55f142c355",
+    "scope": "ZohoCRM.modules.ALL ZohoBooks.fullaccess.all",
+    "api_domain": "https:\/\/www.zohoapis.com",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "created_at": 1755657124
+}
